@@ -1,0 +1,33 @@
+.border{
+    border: 2px solid red;
+}
+.flex{
+    display: flex;
+}
+.justify-center{
+    display: flex;
+    justify-content: center;
+}
+.j-sb{
+display: flex;
+justify-content: space-between;
+}
+.item-center{
+    display: flex;
+    align-items: center;
+}
+.icon{
+    height: 22px;
+    width: 56px;
+}
+.invert{
+    filter: invert(1);
+}
+.bg-black{
+    background-color: black;
+}
+
+.td-none{
+    text-decoration: none;
+    
+}
